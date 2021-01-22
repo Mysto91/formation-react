@@ -1,8 +1,8 @@
 import './App.css';
-import MyHeader from './header/MyHeader';
-import Main from './main/Main';
-import Footer from './footer/Footer';
-import ContactForm from './contactForm/ContactForm';
+import MyHeader from './components/header/MyHeader';
+import Main from './components/main/Main';
+import Footer from './components/footer/Footer';
+import ContactForm from './components/contactForm/ContactForm';
 
 function App() {
   return (
